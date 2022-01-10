@@ -1,0 +1,8 @@
+site_name: "ekidemo2"
+site_description: "This is a demo template"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

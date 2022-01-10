@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ekidemo2"
+  description: "This is a demo template"
+  annotations:
+    github.com/project-slug: cenz/ekidemo-try
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "eki-hk-de"
